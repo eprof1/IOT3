@@ -1,4 +1,4 @@
-<a href="https://eprof1.github.io/IOT2/" target="_blank">GitHub IoT Pages</a>
+<a href="https://eprof1.github.io/IOT3/" target="_blank">GitHub IoT Pages</a>
 
 Assignment Links
 * <a href="https://eprof1.github.io/IOT2/IOTP01/IOTP01.html" target="_blank">IOTP01-Single Board Computers</a>

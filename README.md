@@ -1,5 +1,7 @@
 <a href="https://eprof1.github.io/IOT3/" target="_blank">GitHub IoT Pages</a>
 
+# need to add new and renumbered assignments, 9/11/2022
+
 Assignment Links
 * <a href="https://eprof1.github.io/IOT2/IOTP01/IOTP01.html" target="_blank">IOTP01-Single Board Computers</a>
 * <a href="https://eprof1.github.io/IOT2/IOTP02/IOTP02.html" target="_blank">IOTP02-VNC-GUI RPi</a>
